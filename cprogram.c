@@ -2,10 +2,11 @@
 #include<conio.h>
 
 main(){
-    int x, y, sum;
+    int x, y, summing;
     clrscr();
-    sum = x + y;
-    printf("Sum of 2 numbers = %d", sum);
+    summing = x + y;
+    printf("Sum of 2 numbers = %d", summing);
+    printf("Sum of 2 numbers = %d", summing);
     getch();
     return 0;
 }
